@@ -21,4 +21,4 @@ Soy **Tecnóloga en Desarrollo de Software del SENA** (Bogotá, Colombia). Mi en
 ### 🔍 ¿Qué busco aportar?
 Me interesa integrarme en equipos donde el análisis de problemas complejos sea la norma y donde pueda aportar tanto en la construcción de soluciones Backend como en el fortalecimiento de la seguridad de las aplicaciones. 
 
-Si quieres analizar algún proyecto en común o hablar sobre desarrollo y seguridad, puedes contactarme a través de mi **[LinkedIn](TU_ENLACE_AQUÍ)** o escribirme a **tu.correo@email.com**.
+Si quieres analizar algún proyecto en común, puedes contactarme a través de mi correo **heidytroseroj@hotmail.com**.
