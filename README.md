@@ -48,6 +48,6 @@
 ---
 
 ### 🔍 ¿Qué busco aportar?
-Me interesa integrarme en equipos donde el análisis de problemas complejos sea la norma y donde pueda aportar tanto en la construcción de soluciones Backend como en el fortalecimiento de la seguridad de las aplicaciones. 
+Me interesa integrarme en equipos donde pueda aportar tanto en la construcción de soluciones Backend como en el fortalecimiento de la seguridad de las aplicaciones. No lo se todo, pero me gusta aprender.
 
 Si quieres analizar algún proyecto en común, puedes contactarme a través de mi correo **heidytroseroj@hotmail.com**.
