@@ -24,7 +24,7 @@
 ```
 
 ### 💻 En lo que me enfoco hoy
-* **Backend Development:** Creando lógica y arquitecturas sólidas principalmente con **Java**.
+* **Backend Development:** Lógica y arquitecturas sólidas principalmente con **Java**.
 * **Ciberseguridad:** Integrando buenas prácticas de desarrollo seguro (OWASP) y analizando cómo proteger la integridad de los datos desde la infraestructura del código.
 * **Proyectos Actuales:** Desarrollando sistemas individuales y grupales enfocados en resolver problemas de lógica y optimización.
 
