@@ -12,7 +12,7 @@
 
 ---
 
-> Soy **Tecnóloga en Desarrollo de Software del SENA** (Bogotá, Colombia). Mi enfoque está en la construcción de sistemas detallados y eficientes, combinando la lógica de la programación con sistemas limpios y seguros ante vulnerabilidades.
+>Mi enfoque está en la construcción de sistemas detallados y eficientes, combinando la lógica de la programación con sistemas limpios y seguros ante vulnerabilidades.
 
 ```json
 {
