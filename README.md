@@ -1,4 +1,4 @@
-# <p align="center">⚡ Hola, soy Heidi</p>
+# <p align="center">Hola, soy Heidi</p>
 
 <p align="center">
   <img src="https://shields.io" alt="Cybersecurity"/>
@@ -51,11 +51,3 @@
 Me interesa integrarme en equipos donde el análisis de problemas complejos sea la norma y donde pueda aportar tanto en la construcción de soluciones Backend como en el fortalecimiento de la seguridad de las aplicaciones. 
 
 Si quieres analizar algún proyecto en común, puedes contactarme a través de mi correo **heidytroseroj@hotmail.com**.
-
----
-
-### 📊 GitHub Activity & Metrics
-<p align="center">
-  <img src="https://vercel.app" alt="Heidi's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="45%"/>
-</p>
