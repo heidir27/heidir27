@@ -23,15 +23,15 @@
 }
 ```
 
-### 💻 En lo que me enfoco hoy
+### En lo que me enfoco hoy
 * **Backend Development:** Lógica y arquitecturas sólidas principalmente con **Java**.
 * **Ciberseguridad:** Integrando buenas prácticas de desarrollo seguro (OWASP) y analizando cómo proteger la integridad de los datos desde la infraestructura del código.
 * **Proyectos Actuales:** Desarrollando sistemas individuales y grupales enfocados en resolver problemas de lógica y optimización.
 
 ---
 
-### 🛠️ Herramientas y Tecnologías
-* **Lenguajes:** Java (Core / Ecosistema Spring), SQL.
+###  Herramientas y Tecnologías
+* **Lenguajes:** Java (Core / Ecosistema Spring), SQL, Phyton, Docker
 * **Metodología:** Análisis de requerimientos, estructuración lógica y patrones de diseño aprendidos.
 * **Idiomas:** Español (Nativo) | Inglés (Intermedio)
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 🔍 ¿Qué busco aportar?
+###  ¿Qué busco aportar?
 Me interesa integrarme en equipos donde pueda aportar tanto en la construcción de soluciones Backend como en el fortalecimiento de la seguridad de las aplicaciones. No lo se todo, pero me gusta aprender.
 
 Si quieres analizar algún proyecto en común, puedes contactarme a través de mi correo **heidytroseroj@hotmail.com**.
